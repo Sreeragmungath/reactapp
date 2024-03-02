@@ -3,4 +3,9 @@ docker-compose.yml
 .dockerignore
 .git
 .gitignore
+builddev.sh
+buildprod.sh
+deploy.sh
+stopcontainer.sh
+
 
