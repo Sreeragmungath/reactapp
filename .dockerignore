@@ -5,7 +5,7 @@ docker-compose.yml
 .gitignore
 builddev.sh
 buildprod.sh
-deploy.sh
+deploydev.sh
 stopcontainer.sh
 
 
