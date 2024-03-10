@@ -6,6 +6,7 @@ docker-compose.yml
 builddev.sh
 buildprod.sh
 deploydev.sh
+deployprod.sh 
+docker-composeprod.yml
 stopcontainer.sh
-
 
